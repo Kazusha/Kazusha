@@ -37,10 +37,8 @@ I work on some project in machine learning and AI at school
 
 
 # 💡 Quote 
-<blockquote style="border-left: 4px solid #7248cd; padding-left: 10px; color: #555; font-style: italic;">
 “L'humanité ne peut rien obtenir sans donner quelque chose en retour. Pour chaque chose reçue, il faut en abandonner une autre de même valeur”  
 — Edward Elric
-</blockquote>
 
 
 
