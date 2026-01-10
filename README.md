@@ -37,8 +37,8 @@ I work on some project in machine learning and AI at school
 
 
 # 💡 Quote 
-“L'humanité ne peut rien obtenir sans donner quelque chose en retour. Pour chaque chose reçue, il faut en abandonner une autre de même valeur”  
-— Edward Elric
+# “L'humanité ne peut rien obtenir sans donner quelque chose en retour. Pour chaque chose reçue, il faut en abandonner une autre de même valeur”  
+## — Edward Elric
 
 
 
