@@ -10,14 +10,6 @@ When i'm not in a project I love play video game, watching nba and Soccer , Anim
 
 My first Language is French 🇫🇷 but my english is also well 🇺🇸
 
-
-# 💻 What I am Doing Now
-
-Actually i work in a web app name Historio  which permit us to be an author of a  book and also a reader 📚
-
-I work on some project in machine learning and AI at school
-
-
 # 🛠️ My Tools 
 
 ## Langages
@@ -42,9 +34,7 @@ I work on some project in machine learning and AI at school
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-# 💡 Quote 
-# “L'humanité ne peut rien obtenir sans donner quelque chose en retour. Pour chaque chose reçue, il faut en abandonner une autre de même valeur”  
-## — Edward Elric
+
 
 
 
