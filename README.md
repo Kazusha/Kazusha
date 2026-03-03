@@ -27,7 +27,20 @@ My first Language is French 🇫🇷 but my english is also well 🇺🇸
 
 
 
+<h2 align="center"><u><b>My GitHub Stats</b></u></h2>
 
+<div align="center">
+  <table border="0" align="center">
+    <tr border="0">
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-streak-stats-eight.vercel.app?user=Kazusha&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+      </td>
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kazusha&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
