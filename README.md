@@ -2,11 +2,11 @@
 
 ## 🧍🏿‍♂️ About Me
 
-Actually I study Web/Mobile Devellopement (Backend and Fontend)(personnal research) and Machine learning at school and I also want to create my Video Game 🎮
+ I'm a  Web and Game Dev and I learn Intelligence Artificial and Big Data at school 
 
-I love learn by create Projects whether it is relevant or not😂
+I love learn by creating Projects even if  it is relevant or not😂
 
-When i'm not in a project I love play video game, watching nba and Soccer , Anime or Series or listening to Music ⭐️
+When i'm not in a project I love playing video game, watching nba and Soccer , Anime or Series or listening to Music or reading a book⭐️
 
 My first Language is French 🇫🇷 but my english is also well 🇺🇸
 
@@ -23,6 +23,7 @@ My first Language is French 🇫🇷 but my english is also well 🇺🇸
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GODOT](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat)
 
 
 
