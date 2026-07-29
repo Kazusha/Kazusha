@@ -1,12 +1,12 @@
-# 👋 Hi i'm Romy 
+# 👋 Hi i'm MIDJIE LIMAN ROMARIC
 
 ## 🧍🏿‍♂️ About Me
 
- I'm a  Web and Game Dev and I learn Intelligence Artificial and Big Data at school 
+ I'm a  Web a Dev and AI BIG DATA student
 
-I love learn by creating Projects even if  it is relevant or not😂
+I love learn by creating Projects 
 
-When i'm not in a project I love playing video game, watching nba and Soccer , Anime or Series or listening to Music or reading a book⭐️
+When i'm not in a project I love playing video game, watching nba and Soccer , Anime or Series
 
 My first Language is French 🇫🇷 but my english is also well 🇺🇸
 
